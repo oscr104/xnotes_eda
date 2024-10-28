@@ -185,4 +185,3 @@ dependencies:
       - werkzeug==3.0.6
       - wordcloud==1.9.3
       - wrapt==1.16.0
-prefix: C:\Users\Oscar\anaconda3\envs\xnotes
