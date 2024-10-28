@@ -1,5 +1,6 @@
 # xnotes_eda
-Investigation into X community notes dataset
+Investigation into X community notes dataset.
+
 Setup:
 ```
 git clone https://github.com/oscr104/xnotes_eda.git
